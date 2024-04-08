@@ -1,5 +1,0 @@
-First way/
-├── Shape/
-│    ├── __init__.py
-│    └── Shape.py
-└── main.py
