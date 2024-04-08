@@ -17,7 +17,7 @@ Second way/
 │   │── point.py
 │   │── line.py
 │   │── shape.py
-│   └── Polygons
+│   └── Polygons/
 │   │   │   │── __init__.py
 │   │   │   │── Equilateral.py
 │   │   │   │── Isosceles.py
